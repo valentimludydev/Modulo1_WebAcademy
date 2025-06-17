@@ -1,7 +1,8 @@
 body{
-    background-color: lightblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h1{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: navy;
+    margin-left: 20px;
 }
